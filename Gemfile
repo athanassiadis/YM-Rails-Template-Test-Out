@@ -28,3 +28,17 @@ gem 'sqlite3-ruby', :require => 'sqlite3'
 # group :development, :test do
 #   gem 'webrat'
 # end
+gem "haml"
+gem "haml-edge"
+gem "hpricot", :group => :development
+gem "ruby_parser", :group => :development
+gem "compass"
+gem "html5-boilerplate"
+gem "sqlite3-ruby"
+gem "ruby_parser"
+gem "devise", :git => "git://github.com/plataformatec/devise.git"
+gem "will_paginate", "~> 3.0.pre2"
+gem "acts-as-taggable-on"
+gem "paperclip"
+gem "acts_as_list"
+gem "acts_as_commentable"
